@@ -1,10 +1,9 @@
 theme = "hyde"
 baseURL = "https://rockyrna.org/"
 languageCode = "en-us"
-title = "Rocky Mountain RNA Meeting"
+title = "Rocky Mountain Regional RNA Meetings"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
-    # description = "Regional RNA Meeting in Denver, CO"
-    description = " "
-    logo = "logo-inverse.svg"
+    description = " " # don't change
+    truncate = true

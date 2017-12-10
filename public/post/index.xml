@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Rocky Mountain RNA Meeting</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Rocky Mountain RNA Meeting</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Nov 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Save the Date!</title>
+      <link>/post/home/</link>
+      <pubDate>Sat, 18 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/home/</guid>
+      <description>Rocky Mountain RNA Meeting The Colorado RNA community is hosting the inaugural Rocky Mountain RNA Meeting on October 10-12 2019.
+Program We are planning an exciting program with regional speakers. Like the Rustbelt RNA meeting, we plan to highlight research by trainees at all levels.</description>
+    </item>
+    
+  </channel>
+</rss>

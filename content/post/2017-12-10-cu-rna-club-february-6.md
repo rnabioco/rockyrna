@@ -40,6 +40,6 @@ If you are driving to campus, we recommend you park in the **Georgetown Lot**, w
 
 ## Sponsors
 
-+ RNA Salon designatation from the [RNA Society](https://www.rnasociety.org/)
++ RNA Salon designation from the [RNA Society](https://www.rnasociety.org/)
 
 + [RNA Bioscience Initiative](http://rnabio.co) at the University of Colorado School of Medicine

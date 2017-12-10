@@ -3,6 +3,7 @@ baseURL = "https://rockyrna.org/"
 languageCode = "en-us"
 title = "Rocky Mountain Regional RNA Meetings"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+googleAnalytics = "UA-54095998-6"
 
 [params]
     description = " " # don't change

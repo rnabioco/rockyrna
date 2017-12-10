@@ -1,10 +1,31 @@
-theme = "hyde"
+theme = "hyde-x"
+
 baseURL = "https://rockyrna.org/"
+
 languageCode = "en-us"
-title = "Rocky Mountain Regional RNA Meetings"
+
+title = "Rocky Mountain RNA"
+
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
-googleAnalytics = "UA-54095998-6"
+
+tags = ["clubs", "meetings"]
+
+[taxonomies]
+    # Optional. Use if you want tags and lists.
+    category = "categories"
 
 [params]
-    description = " " # don't change
-    truncate = true
+
+    # theme = "theme-base-0a"
+    
+    description = "Clubs and meetings in the Rocky Mountain region."
+
+    # Hide estimated reading time for posts.
+    # Default (if omitted) is false.
+    hideReadingTime = true
+
+    twitter = "https://twitter.com/rnabioco"
+    github = "https://github.com/rnabioco/rockyrna"
+
+    googleAnalytics = "UA-54095998-6"
+

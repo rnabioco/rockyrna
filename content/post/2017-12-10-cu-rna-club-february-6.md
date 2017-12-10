@@ -3,9 +3,7 @@ title: CU RNA Club
 author: Jay Hesselberth
 date: '2017-12-10'
 slug: rna-club-feb-6
-categories:
-  - RNA-club
-tags: []
+tags: ["clubs"]
 Description: 'CU RNA Club'
 Tags:
   - RNA-club

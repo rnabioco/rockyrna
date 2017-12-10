@@ -1,10 +1,13 @@
 ---
-title: "Save the Date!"
+title: "Rocky Mountain RNA Meeting - Save the Date!"
+Description: "Rocky Mountain RNA Meeting"
 author: "Jay Hesselberth"
+tags: ["meetings"]
 date: 2017-11-18
+menu: main
 ---
 
-The Colorado RNA community is hosting the inaugural Rocky Mountain RNA Meeting on October 10-12 **2019**. The meeting will be held on the Anschutz Medical Campus.
+The Colorado RNA community is hosting the inaugural Rocky Mountain RNA Meeting on October 10-12 **2019**. The meeting will be held on the University of Colorado Anschutz Medical Campus.
 
 <!--more-->
 

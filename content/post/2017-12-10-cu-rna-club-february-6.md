@@ -36,7 +36,7 @@ CU RNA Club will be held on **February 6 2018** on the University of Colorado An
 
 If you are driving to campus, we recommend you park in the **Georgetown Lot**, which is a short walk to the **Nighthorse Campbell Building**.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d3067.769780650965!2d-104.83773498466057!3d39.744821954151824!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e6!4m5!1s0x876c634f86c1ff9d%3A0x415b9fcdb256439!2sGeorgetown+Lot+Visitor+%26+Patient+Parking!3m2!1d39.746058!2d-104.83433509999999!4m5!1s0x876c634edfed838f%3A0xbec49482f5f7f42f!2sNighthorse+campbell+native+health+building%2C+East+17th+Avenue%2C+Aurora%2C+CO!3m2!1d39.743941899999996!2d-104.8367538!5e0!3m2!1sen!2sus!4v1512922741182" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d3067.769964294257!2d-104.83773498462448!3d39.7448178294489!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0x876c634f86c1ff9d%3A0x415b9fcdb256439!2sGeorgetown+Lot+Visitor+%26+Patient+Parking!3m2!1d39.746058!2d-104.83433509999999!4m5!1s0x876c634edfed838f%3A0xbec49482f5f7f42f!2sNighthorse+campbell+native+health+building%2C+13055+E+17th+Ave%2C+Aurora%2C+CO+80045!3m2!1d39.743941899999996!2d-104.8367538!5e0!3m2!1sen!2sus!4v1512929127735" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 ## Sponsors
 

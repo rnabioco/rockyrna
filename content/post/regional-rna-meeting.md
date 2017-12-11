@@ -1,8 +1,9 @@
 ---
-title: "Rocky Mountain RNA Meeting - Save the Date!"
+title: "Rocky Mountain RNA Meeting"
 Description: "The Colorado RNA community is hosting the inaugural Rocky Mountain RNA Meeting on October 10-12 2019 at the University of Colorado Anschutz Medical Campus."
 author: "Jay Hesselberth"
-tags: ["meetings"]
+categories: ["meetings"]
+slug: rmrm-2019
 date: 2017-11-18
 menu: main
 ---
@@ -15,5 +16,5 @@ The Colorado RNA community is hosting the inaugural Rocky Mountain RNA Meeting o
 
 ## Program 
 
-We are planning an exciting program with regional speakers. Like the [Rustbelt RNA meeting](rustbeltrna.org), we plan to highlight research by trainees at all levels. 
+We are planning an exciting program with regional speakers. Like the [Rustbelt RNA meeting](http://rustbeltrna.org), we plan to highlight research by trainees at all levels. 
 

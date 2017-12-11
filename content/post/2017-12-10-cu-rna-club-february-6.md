@@ -38,3 +38,8 @@ If you are driving to campus, we recommend you park in the **Georgetown Lot**, w
 + RNA Salon designation from the [RNA Society](https://www.rnasociety.org/)
 
 + [RNA Bioscience Initiative](http://rnabio.co) at the University of Colorado School of Medicine
+
++ [Dharmacon](http://dharmacon.gelifesciences.com/)
+
++ [Somalogic](http://somalogic.com/)
+

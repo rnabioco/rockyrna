@@ -17,9 +17,9 @@ CU RNA Club will be held on **February 6 2018** on the University of Colorado An
 |         --: | :--       |
 | 4:00 - 4:30 | **PIZZA** |
 | 4:30 - 5:00 | **Briana van Treeck** (Parker lab, CU Boulder) |
-|             | *TBD* |
+|             | *RNA-RNA interactions contribute to stress granule assembly and help define the stress granule transcriptome* |
 | 5:00 - 5:30 | **Dan Eiler, Ph.D.** (Kieft lab, CU Anschutz) |
-|             | *TBD* |
+|             | *Introducing RNAMake: Nanotechnology using RNA motifs* |
 | 5:30 - 5:45 | **BREAK** |
 | 5:45 - 6:15 | **Jay Hesselberth** (CU Anschutz) |
 |             | *New methods for single-cell RNA biology* |

@@ -43,3 +43,5 @@ If you are driving to campus, we recommend you park in the **Georgetown Lot**, w
 
 + [Somalogic](http://somalogic.com/)
 
++ [Lexogen](https://www.lexogen.com/)
+

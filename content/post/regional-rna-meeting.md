@@ -12,7 +12,7 @@ The Colorado RNA community is hosting the inaugural Rocky Mountain RNA Meeting o
 
 <!--more-->
 
-![RMRM logo](/img/logo.svg)
+![RMRM logo](/img/rmrm-logo.svg)
 
 ## Program 
 

@@ -3,7 +3,6 @@ title: CU RNA Club - Apr 17 2018
 author: Jay Hesselberth
 date: 2018-12-13
 publishdate: 2018-03-21
-slug: rna-club-apr-17
 categories: ["clubs"]
 Description: "CU RNA Club will be held April 17 2018 on the University of Colorado Anshutz Medical Campus" 
 ---

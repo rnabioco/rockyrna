@@ -3,7 +3,6 @@ title: CU RNA Club - May 22 2018
 author: Jay Hesselberth
 date: 2018-12-07
 publishdate: 2018-04-16
-slug: rna-club-may-22
 categories: ["clubs"]
 Description: "The next CU RNA Club will be May 22 2018 on the University of Colorado Boulder campus" 
 ---

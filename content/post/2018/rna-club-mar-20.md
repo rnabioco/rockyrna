@@ -24,7 +24,7 @@ CU RNA Club will be held on **Mar 20 2018** at the University of Colorado Boulde
 | 5:45 - 6:15 | **TBD** |
 |             | *TBD* |
 | 6:15 - 6:45 | **Nick Parsonnet** (Wuttke lab, CU Boulder) |
-|             | *TBD* |
+|             | **TBD** |
 | 6:45 - 7:00 | **Wrap-up** |
 
 ## Location

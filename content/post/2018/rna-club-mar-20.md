@@ -4,6 +4,7 @@ author: Jay Hesselberth
 date: 2018-12-13
 publishdate: 2018-02-07
 categories: ["clubs"]
+url: /clubs/2018/mar-20
 Description: "CU RNA Club will be held May 22 2018 on the CU Boulder campus" 
 ---
 

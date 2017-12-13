@@ -1,10 +1,10 @@
 ---
 title: CU RNA Club - Feb 6 2018
 author: Jay Hesselberth
-date: '2017-12-10'
-slug: rna-club-feb-6
+date: '2017-12-07'
 categories: ["clubs"]
-Description: "The next CU RNA Club will be February 6 2018 on the University of Colorado Anschutz Medical Campus."
+url: /clubs/2018/feb-6
+Description: "CU RNA Club will be held February 6 2018 on the University of Colorado Anschutz Medical Campus."
 ---
 
 CU RNA Club will be held on **February 6 2018** on the University of Colorado Anschutz Medical Campus.

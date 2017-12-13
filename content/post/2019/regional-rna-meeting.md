@@ -3,7 +3,7 @@ title: "Rocky Mountain RNA Meeting"
 Description: "The Colorado RNA community is hosting the inaugural Rocky Mountain RNA Meeting on October 10-12 2019 at the University of Colorado Anschutz Medical Campus."
 author: "Jay Hesselberth"
 categories: ["meetings"]
-slug: rmrm-2019
+url: /rmrm-2019
 date: 2017-11-18
 menu: main
 ---

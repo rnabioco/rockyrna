@@ -1,5 +1,5 @@
 ---
-title: CU RNA Club - Date 
+title: An Evening with RNA - Date 
 author: Jay Hesselberth
 date: 2017-02-13T17:24:43-08:00
 slug: rna-club-DATE
@@ -7,7 +7,7 @@ categories: ["clubs"]
 Description: "The next CU RNA Club will be DATE on the WHERE" 
 ---
 
-CU RNA Club will be held on **DATE** on the University of Colorado WHERE. 
+The next Evening with RNA will be held on **DATE** on the University of Colorado WHERE. 
 
 <!--more-->
 

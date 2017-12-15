@@ -16,13 +16,12 @@ CU RNA Club will be held on **Mar 20 2018** at the University of Colorado Boulde
 
 | Time        | Event     |
 | :--         | :--       |
-| 4:00 - 4:30 | **PIZZA** |
-| 4:30 - 5:00 | **TBD** |
+| 4:00 - 4:30 | **David Bentley** (CU Anschutz) |
 |             | *TBD* |
-| 5:00 - 5:30 | **Jonathon Rubin** (Taatjes/Dowell labs, CU Boulder) |
+| 4:30 - 5:00 | **Jonathon Rubin** (Taatjes/Dowell labs, CU Boulder) |
 |             | *TBD* |
-| 5:30 - 5:45 | **BREAK** |
-| 5:45 - 6:15 | **TBD** |
+| 5:00 - 5:45 | **PIZZA** |
+| 5:45 - 6:15 | **Dan Eiler** (CU Anshutz)|
 |             | *TBD* |
 | 6:15 - 6:45 | **Nick Parsonnet** (Wuttke lab, CU Boulder) |
 |             | **TBD** |

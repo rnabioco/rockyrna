@@ -1,10 +1,10 @@
 ---
 title: An Evening with RNA - Date 
 author: Jay Hesselberth
-date: 2017-02-13T17:24:43-08:00
-slug: rna-club-DATE
+date: 2018-XX-XX
+postingdate: 2018-XX-XX
 categories: ["clubs"]
-Description: "The next CU RNA Club will be DATE on the WHERE" 
+Description: "The next Evening with RNA will be DATE on the WHERE" 
 ---
 
 The next Evening with RNA will be held on **DATE** on the University of Colorado WHERE. 
@@ -13,18 +13,17 @@ The next Evening with RNA will be held on **DATE** on the University of Colorado
 
 ## Schedule
 
-| Time        | Event     |
-| :--         | :--       |
-| 4:00 - 4:30 | **PIZZA** |
-| 4:30 - 5:00 | **TBD** |
-|             | *TBD* |
-| 5:00 - 5:30 | **TBD** |
-|             | *TBD* |
-| 5:30 - 5:45 | **BREAK** |
-| 5:45 - 6:15 | **TBD** |
-|             | *TBD* |
-| 6:15 - 6:45 | **TBD** |
-|             | *TBD* |
+| Time        | Event       |
+| :--         | :--         |
+| 4:00 - 4:30 | **TBD**     |
+|             | *TBD*       |
+| 4:30 - 5:00 | **TBD**     |
+|             | *TBD*       |
+| 5:00 - 5:45 | **PIZZA**   |
+| 5:45 - 6:15 | **TBD**     |
+|             | *TBD*       |
+| 6:15 - 6:45 | **TBD**     |
+|             | *TBD*       |
 | 6:45 - 7:00 | **Wrap-up** |
 
 ## Location
@@ -41,3 +40,6 @@ The next Evening with RNA will be held on **DATE** on the University of Colorado
 
 + [Lexogen](https://www.lexogen.com/)
 
+## Mailing list
+
+Send an email to <rna-club@lists.ucdenver.edu> if you would like to receive e-mail announcments.

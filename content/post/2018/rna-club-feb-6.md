@@ -15,10 +15,10 @@ The next Evening with RNA will be held on **February 6 2018** on the University 
 
 | Time        | Event     |
 | :--         | :--       |
-| 4:00 - 4:30 | **Briana van Treeck** (Parker lab, CU Boulder) |
+| 4:00 - 4:30 | **Roy Parker** (CU Boulder) |
+|             | *The future of RNA research* |
+| 4:30 - 5:00 | **Briana van Treeck** (Parker lab, CU Boulder) |
 |             | *RNA-RNA interactions contribute to stress granule assembly and help define the stress granule transcriptome* |
-| 4:30 - 5:00 | **Dan Eiler, Ph.D.** (Kieft lab, CU Anschutz) |
-|             | *Introducing RNAMake: Designing folded RNAs using linked motifs* |
 | 5:00 - 5:45 | **Pizza** |
 | 5:45 - 6:15 | **Jay Hesselberth** (CU Anschutz) |
 |             | *New methods for single-cell RNA biology* |

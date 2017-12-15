@@ -26,6 +26,10 @@ The next Evening with RNA will be held on **February 6 2018** on the University 
 |             | *TBD* |
 | 6:45 - 7:00 | **Wrap-up** |
 
+## Transportation
+
+We are organizing a CU Buffs bus to transport attendees. The bus will pick up outside of JSCBB at 3pm and return to Boulder around 7:30pm.
+
 ## Location
 
 If you are driving to campus, we recommend you park in the **Georgetown Lot**, which is a short walk to the **Nighthorse Campbell Building**.
@@ -43,4 +47,9 @@ If you are driving to campus, we recommend you park in the **Georgetown Lot**, w
 + [Somalogic](http://somalogic.com/)
 
 + [Lexogen](https://www.lexogen.com/)
+
+## Mailing list
+
+Send an e-mail to <rna-club@lists.ucdenver.eu> if you would like to receive announcments about RNA Club.
+
 

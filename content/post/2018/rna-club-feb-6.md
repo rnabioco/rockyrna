@@ -50,6 +50,4 @@ If you are driving to campus, we recommend you park in the **Georgetown Lot**, w
 
 ## Mailing list
 
-Send an e-mail to <rna-club@lists.ucdenver.eu> if you would like to receive announcments about RNA Club.
-
-
+Send an e-mail to <rna-club@lists.ucdenver.edu> if you would like to receive announcments about RNA Club.

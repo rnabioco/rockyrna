@@ -16,7 +16,7 @@ CU RNA Club will be held on **May 15 2018** on the University of Colorado Boulde
 
 | Time        | Event     |
 | :--         | :--       |
-| 4:00 - 4:30 | **Jeff Kieft** (CU Anschutz) |
+| 4:00 - 4:30 | **TBD** (CU Anschutz) |
 |             | *TBD* |
 | 5:00 - 5:30 | **Kate Gadek** (Olwin lab, CU Boulder) |
 |             | *TBD* |

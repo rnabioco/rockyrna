@@ -23,7 +23,7 @@ The next Evening with RNA will be held on **February 6 2018** on the University 
 | 5:45 - 6:15 | **Jay Hesselberth** (CU Anschutz) |
 |             | *New methods for single-cell RNA biology* |
 | 6:15 - 6:45 | **Joe Cardiello** (Goodrich lab, CU Boulder) |
-|             | *TBD* |
+|             | *Investigating a heat shock induced transcriptional termination defect: a new source of stress induced elongated mRNAs.* |
 | 6:45 - 7:00 | **Wrap-up** |
 
 ## Transportation

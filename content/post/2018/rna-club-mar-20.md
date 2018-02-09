@@ -1,5 +1,5 @@
 ---
-title: CU RNA Club - Mar 20 2018
+title: An Evening with RNA - Mar 20 2018
 author: Jay Hesselberth
 date: 2018-12-13
 publishdate: 2018-02-02
@@ -8,7 +8,7 @@ url: /clubs/2018/mar-20
 Description: "CU RNA Club will be held May 22 2018 on the CU Boulder campus" 
 ---
 
-CU RNA Club will be held on **Mar 20 2018** at the University of Colorado Boulder. 
+The next Evening with RNA will be held on **Mar 20 2018** at the University of Colorado Boulder. 
 
 <!--more-->
 

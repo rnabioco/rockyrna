@@ -2,7 +2,7 @@
 title: CU RNA Club - Mar 20 2018
 author: Jay Hesselberth
 date: 2018-12-13
-publishdate: 2018-02-07
+publishdate: 2018-02-02
 categories: ["clubs"]
 url: /clubs/2018/mar-20
 Description: "CU RNA Club will be held May 22 2018 on the CU Boulder campus" 
@@ -17,12 +17,12 @@ CU RNA Club will be held on **Mar 20 2018** at the University of Colorado Boulde
 | Time        | Event     |
 | :--         | :--       |
 | 4:00 - 4:30 | **David Bentley** (CU Anschutz) |
-|             | *TBD* |
+|             | *Pol II Pausing Perplexes People* |
 | 4:30 - 5:00 | **Jonathon Rubin** (Taatjes/Dowell labs, CU Boulder) |
-|             | *TBD* |
+|             | *Mediator Kinases in the Regulation of RNA Polymerase II and Transcription Factor Activity* |
 | 5:00 - 5:45 | **PIZZA** |
 | 5:45 - 6:15 | **Dan Eiler** (CU Anshutz)|
-|             | *TBD* |
+|             | *Introducing RNAMake: Designing folded RNAs using linked motifs* |
 | 6:15 - 6:45 | **Nick Parsonnet** (Wuttke lab, CU Boulder) |
 |             | **TBD** |
 | 6:45 - 7:00 | **Wrap-up** |

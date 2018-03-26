@@ -18,7 +18,7 @@ CU RNA Club will be held on **April 17 2018** on the University of Colorado Ansh
 | :--         | :--       |
 | 4:00 - 4:30 | **Zac Holmes** (Batey lab, CU Boulder) |
 |             | *TBD* |
-| 4:30 - 5:00 | **Maggie Balas** (CU Anschutz) |
+| 4:30 - 5:00 | **Ryan Sheridan** (CU Anshutz) |
 |             | *TBD* |
 | 5:00 - 5:45 | **PIZZA** |
 | 5:45 - 6:15 | **John Rinn** (CU Boulder)|

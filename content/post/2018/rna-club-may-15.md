@@ -21,7 +21,7 @@ CU RNA Club will be held on **May 15 2018** on the University of Colorado Boulde
 | 5:00 - 5:30 | **Kate Gadek** (Olwin lab, CU Boulder) |
 |             | *TBD* |
 | 5:30 - 5:45 | **PIZZA** |
-| 5:45 - 6:15 | **Ryan Sheridan** (CU Anshutz) |
+| 5:40 - 6:15 | **Maggie Balas** (CU Anschutz) |
 |             | *TBD* |
 | 6:15 - 6:45 | **Anthony Khong** (Parker lab, CU Boulder) |
 |             | *TBD* |

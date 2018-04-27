@@ -17,7 +17,7 @@ CU RNA Club will be held on **May 15 2018** on the University of Colorado Boulde
 | Time        | Event     |
 | :--         | :--       |
 | 4:00 - 4:30 | **Matt Taliaferro** (CU Anschutz) |
-|             | *TBD* |
+|             | *Delivering the message: mechanistic genomics for RNA localization * |
 | 5:00 - 5:30 | **Dan Youmans** (Cech lab, CU Boulder) |
 |             | *TBD* |
 | 5:30 - 5:45 | **PIZZA** |

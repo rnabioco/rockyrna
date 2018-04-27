@@ -18,7 +18,7 @@ CU RNA Club will be held on **May 15 2018** on the University of Colorado Boulde
 | :--         | :--       |
 | 4:00 - 4:30 | **Matt Taliaferro** (CU Anschutz) |
 |             | *TBD* |
-| 5:00 - 5:30 | **Kate Gadek** (Olwin lab, CU Boulder) |
+| 5:00 - 5:30 | **Dan Youmans** (Cech lab, CU Boulder) |
 |             | *TBD* |
 | 5:30 - 5:45 | **PIZZA** |
 | 5:40 - 6:15 | **Maggie Balas** (CU Anschutz) |
